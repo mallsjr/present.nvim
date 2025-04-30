@@ -95,7 +95,6 @@ end
 --   "# World",
 --   "this is another thing",
 -- }))
-
-M.start_presentation({ bufnr = 47 })
+-- M.start_presentation({ bufnr = 47 })
 
 return M
